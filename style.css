@@ -45,11 +45,11 @@ article {
 
 aside { 
     text-align: center;
-    float: right;
+    float: left;
     color: #777;
     background-color: #ebebeb;
     width: 28%;
-    margin: 1% 10% 2% 0;
+    margin: 1% 9% 2% 2%;
 }
 
 footer {
