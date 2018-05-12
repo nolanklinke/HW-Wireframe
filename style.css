@@ -11,14 +11,14 @@ header {
     color: #777;
     text-align: center;
     padding: 20px;
-    margin: 0px 200px 10px 200px;
+    margin: 0px 10% 1% 10%;
 }
 
 nav {
     background-color: #ebebeb;
     text-align: center;
     padding: 20px;
-    margin: 0px 200px 20px 200px;
+    margin: 0px 10% 1% 10%;
 }
 
 #navlist {
@@ -33,7 +33,7 @@ section {
     text-align: center;
     background-color: #ebebeb;
     width: 50%;
-    margin: 0px 20px 20px 200px;
+    margin: 1% 0 2% 10%;
 }
 
 article {
@@ -48,8 +48,8 @@ aside {
     float: right;
     color: #777;
     background-color: #ebebeb;
-    width: 22%;
-    margin: 0px 200px 20px 0px;
+    width: 28%;
+    margin: 1% 10% 2% 0;
 }
 
 footer {
@@ -57,5 +57,5 @@ footer {
     text-align: center;
     background-color: #ebebeb;
     padding: 20px;
-    margin: 20px 200px 10px 200px;
+    margin: 0 10% 0% 10%;
 }
