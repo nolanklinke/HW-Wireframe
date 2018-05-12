@@ -8,6 +8,7 @@ body {
 
 header {
     background-color: #ebebeb;
+    color: #777;
     text-align: center;
     padding: 20px;
     margin: 0px 200px 10px 200px;
@@ -27,27 +28,28 @@ nav {
 li {
     display: inline;
 }
-
 section {
-    text-align: center;
     float: left;
+    text-align: center;
     background-color: #ebebeb;
-    width: 600px;
-    margin: 0px 0px 10px 200px;
+    width: 50%;
+    margin: 0px 20px 20px 200px;
 }
 
 article {
     color: #ebebeb;
-    background-color: #777;
+    background-color:#777;
+    margin: 5% 5% 5% 5%;
+
 }
 
-aside {
+aside { 
     text-align: center;
-    float: left;
+    float: right;
+    color: #777;
     background-color: #ebebeb;
-    width: 500px;
-    height: 250.85px;
-    margin: 0px 0px 0px 20px;
+    width: 22%;
+    margin: 0px 200px 20px 0px;
 }
 
 footer {
@@ -55,5 +57,5 @@ footer {
     text-align: center;
     background-color: #ebebeb;
     padding: 20px;
-    margin: 10px 200px 10px 200px;
+    margin: 20px 200px 10px 200px;
 }
