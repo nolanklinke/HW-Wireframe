@@ -28,18 +28,46 @@ nav {
 li {
     display: inline;
 }
+
 section {
     float: left;
     text-align: center;
     background-color: #ebebeb;
     width: 50%;
-    margin: 1% 0 2% 10%;
+    margin: 1% 0 -500px 10%;
+    padding-bottom: 500px;
 }
 
 article {
     color: #ebebeb;
     background-color:#777;
     margin: 5% 5% 5% 5%;
+    padding-top: 1%;
+}
+
+.artHeader {
+    color: #777;
+    text-align: center;
+    background-color: #ebebeb;
+    margin: 2% 2% 2% 2%;
+    padding: 1% 1% 1% 1%;
+
+}
+
+.hide1 {
+    overflow: hidden;
+}
+
+.artList {
+    display: inline-block;
+}
+
+.artPara {
+    color: #777;
+    text-align: center;
+    background-color: #ebebeb;
+    margin: 2% 2% 2% 2%;
+    padding: 1% 1% 1% 1%;
 
 }
 
@@ -50,6 +78,8 @@ aside {
     background-color: #ebebeb;
     width: 28%;
     margin: 1% 9% 2% 2%;
+    padding-bottom: 500px;
+    margin-bottom: -500px;
 }
 
 footer {
@@ -57,5 +87,5 @@ footer {
     text-align: center;
     background-color: #ebebeb;
     padding: 20px;
-    margin: 0 10% 0% 10%;
+    margin: 2% 10% 0% 10%;
 }
